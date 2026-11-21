@@ -1,0 +1,242 @@
+{
+  "virat-kohli": {
+    "id": "virat-kohli",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c616517/virat-kohli.jpg?d=high&p=det",
+    "local": "/images/players/virat-kohli.jpg",
+    "size": 10787
+  },
+  "rohit-sharma": {
+    "id": "rohit-sharma",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c616514/rohit-sharma.jpg?d=high&p=det",
+    "local": "/images/players/rohit-sharma.jpg",
+    "size": 10607
+  },
+  "jasprit-bumrah": {
+    "id": "jasprit-bumrah",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c846037/jasprit-bumrah.jpg?d=high&p=det",
+    "local": "/images/players/jasprit-bumrah.jpg",
+    "size": 9094
+  },
+  "hardik-pandya": {
+    "id": "hardik-pandya",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c846032/hardik-pandya.jpg?d=high&p=det",
+    "local": "/images/players/hardik-pandya.jpg",
+    "size": 8921
+  },
+  "shubman-gill": {
+    "id": "shubman-gill",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c616515/shubman-gill.jpg?d=high&p=det",
+    "local": "/images/players/shubman-gill.jpg",
+    "size": 9909
+  },
+  "suryakumar-yadav": {
+    "id": "suryakumar-yadav",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c846028/suryakumar-yadav.jpg?d=high&p=det",
+    "local": "/images/players/suryakumar-yadav.jpg",
+    "size": 8613
+  },
+  "rishabh-pant": {
+    "id": "rishabh-pant",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c616524/rishabh-pant.jpg?d=high&p=det",
+    "local": "/images/players/rishabh-pant.jpg",
+    "size": 10598
+  },
+  "ravindra-jadeja": {
+    "id": "ravindra-jadeja",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c616520/ravindra-jadeja.jpg?d=high&p=det",
+    "local": "/images/players/ravindra-jadeja.jpg",
+    "size": 10963
+  },
+  "pat-cummins": {
+    "id": "pat-cummins",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c352460/pat-cummins.jpg?d=high&p=det",
+    "local": "/images/players/pat-cummins.jpg",
+    "size": 21958
+  },
+  "travis-head": {
+    "id": "travis-head",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c180300/jonte-pattison.jpg?d=high&p=det",
+    "local": "/images/players/travis-head.jpg",
+    "size": 24840
+  },
+  "steve-smith": {
+    "id": "steve-smith",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c619873/steven-smith.jpg?d=high&p=det",
+    "local": "/images/players/steve-smith.jpg",
+    "size": 7894
+  },
+  "mitchell-starc": {
+    "id": "mitchell-starc",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c845819/josh-hazlewood.jpg?d=high&p=det",
+    "local": "/images/players/mitchell-starc.jpg",
+    "size": 8769
+  },
+  "glenn-maxwell": {
+    "id": "glenn-maxwell",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c845944/glenn-maxwell.jpg?d=high&p=det",
+    "local": "/images/players/glenn-maxwell.jpg",
+    "size": 10260
+  },
+  "josh-hazlewood": {
+    "id": "josh-hazlewood",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c845760/mitchell-marsh.jpg?d=high&p=det",
+    "local": "/images/players/josh-hazlewood.jpg",
+    "size": 10290
+  },
+  "ben-stokes": {
+    "id": "ben-stokes",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c351851/jonny-bairstow.jpg?d=high&p=det",
+    "local": "/images/players/ben-stokes.jpg",
+    "size": 33543
+  },
+  "jos-buttler": {
+    "id": "jos-buttler",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/andrew-gale.jpg?d=high&p=det",
+    "local": "/images/players/jos-buttler.jpg",
+    "size": 3318
+  },
+  "joe-root": {
+    "id": "joe-root",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c156642/azeem-rafiq.jpg?d=high&p=det",
+    "local": "/images/players/joe-root.jpg",
+    "size": 12418
+  },
+  "harry-brook": {
+    "id": "harry-brook",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/imran-ali.jpg?d=high&p=det",
+    "local": "/images/players/harry-brook.jpg",
+    "size": 3318
+  },
+  "jofra-archer": {
+    "id": "jofra-archer",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/mohammad-karim.jpg?d=high&p=det",
+    "local": "/images/players/jofra-archer.jpg",
+    "size": 3318
+  },
+  "heinrich-klaasen": {
+    "id": "heinrich-klaasen",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c619866/heinrich-klaasen.jpg?d=high&p=det",
+    "local": "/images/players/heinrich-klaasen.jpg",
+    "size": 10374
+  },
+  "kagiso-rabada": {
+    "id": "kagiso-rabada",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/nqazibini-sigwili.jpg?d=high&p=det",
+    "local": "/images/players/kagiso-rabada.jpg",
+    "size": 3318
+  },
+  "quinton-de-kock": {
+    "id": "quinton-de-kock",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c845501/jason-holder.jpg?d=high&p=det",
+    "local": "/images/players/quinton-de-kock.jpg",
+    "size": 21164
+  },
+  "temba-bavuma": {
+    "id": "temba-bavuma",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/lukman-meriwala.jpg?d=high&p=det",
+    "local": "/images/players/temba-bavuma.jpg",
+    "size": 3318
+  },
+  "aiden-markram": {
+    "id": "aiden-markram",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c844979/logan-van-beek.jpg?d=high&p=det",
+    "local": "/images/players/aiden-markram.jpg",
+    "size": 7965
+  },
+  "babar-azam": {
+    "id": "babar-azam",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c846059/babar-azam.jpg?d=high&p=det",
+    "local": "/images/players/babar-azam.jpg",
+    "size": 9361
+  },
+  "mohammad-rizwan": {
+    "id": "mohammad-rizwan",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c158008/patrick-grieshaber.jpg?d=high&p=det",
+    "local": "/images/players/mohammad-rizwan.jpg",
+    "size": 12196
+  },
+  "shaheen-afridi": {
+    "id": "shaheen-afridi",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/kim-perrin.jpg?d=high&p=det",
+    "local": "/images/players/shaheen-afridi.jpg",
+    "size": 3318
+  },
+  "fakhar-zaman": {
+    "id": "fakhar-zaman",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c153303/tanveer-ahmed.jpg?d=high&p=det",
+    "local": "/images/players/fakhar-zaman.jpg",
+    "size": 28567
+  },
+  "naseem-shah": {
+    "id": "naseem-shah",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/pritam-nirala.jpg?d=high&p=det",
+    "local": "/images/players/naseem-shah.jpg",
+    "size": 3318
+  },
+  "kane-williamson": {
+    "id": "kane-williamson",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c616418/kane-williamson.jpg?d=high&p=det",
+    "local": "/images/players/kane-williamson.jpg",
+    "size": 10193
+  },
+  "trent-boult": {
+    "id": "trent-boult",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/michael-carberry.jpg?d=high&p=det",
+    "local": "/images/players/trent-boult.jpg",
+    "size": 3318
+  },
+  "mitchell-santner": {
+    "id": "mitchell-santner",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c617405/liam-livingstone.jpg?d=high&p=det",
+    "local": "/images/players/mitchell-santner.jpg",
+    "size": 8420
+  },
+  "rachin-ravindra": {
+    "id": "rachin-ravindra",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/vinit-yadav.jpg?d=high&p=det",
+    "local": "/images/players/rachin-ravindra.jpg",
+    "size": 3318
+  },
+  "rashid-khan": {
+    "id": "rashid-khan",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c845423/rashid-khan.jpg?d=high&p=det",
+    "local": "/images/players/rashid-khan.jpg",
+    "size": 8889
+  },
+  "fazalhaq-farooqi": {
+    "id": "fazalhaq-farooqi",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/geetika-kodali.jpg?d=high&p=det",
+    "local": "/images/players/fazalhaq-farooqi.jpg",
+    "size": 3318
+  },
+  "wanindu-hasaranga": {
+    "id": "wanindu-hasaranga",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c847146/wanindu-hasaranga.jpg?d=high&p=det",
+    "local": "/images/players/wanindu-hasaranga.jpg",
+    "size": 11473
+  },
+  "charith-asalanka": {
+    "id": "charith-asalanka",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c153648/ehsan-khan.jpg?d=high&p=det",
+    "local": "/images/players/charith-asalanka.jpg",
+    "size": 27298
+  },
+  "pathum-nissanka": {
+    "id": "pathum-nissanka",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c847160/pathum-nissanka.jpg?d=high&p=det",
+    "local": "/images/players/pathum-nissanka.jpg",
+    "size": 8589
+  },
+  "matheesha-pathirana": {
+    "id": "matheesha-pathirana",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/samson-singh.jpg?d=high&p=det",
+    "local": "/images/players/matheesha-pathirana.jpg",
+    "size": 3318
+  },
+  "kusal-mendis": {
+    "id": "kusal-mendis",
+    "url": "https://static.cricbuzz.com/a/img/v1/i1/c182026/yogesh-golwalkar.jpg?d=high&p=det",
+    "local": "/images/players/kusal-mendis.jpg",
+    "size": 3318
+  }
+}

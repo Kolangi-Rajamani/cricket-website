@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#0e1e25] text-slate-100 font-sans;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(14, 30, 37, 0.7);
+}
+::-webkit-scrollbar-thumb {
+  background: #2a4150;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #009270;
+}
+
+/* Cricbuzz pulse animation for LIVE matches */
+@keyframes livePulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(229, 57, 53, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 8px rgba(229, 57, 53, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(229, 57, 53, 0);
+  }
+}
+
+.live-badge {
+  animation: livePulse 2s infinite;
+}
+
+/* Shimmer animation for live score change */
+@keyframes flashGreen {
+  0% {
+    background-color: rgba(0, 146, 112, 0.35);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+.score-flash {
+  animation: flashGreen 1s ease-out;
+}

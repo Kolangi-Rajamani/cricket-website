@@ -1,0 +1,10 @@
+{
+  "name": "cricbuzz-clone-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "backend": "cd backend && node server.js",
+    "frontend": "cd frontend && npm.cmd run dev",
+    "install:all": "cd backend && npm.cmd install && cd ../frontend && npm.cmd install"
+  }
+}
